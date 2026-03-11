@@ -1,0 +1,7 @@
+D:\Project\Printout_WinForm\Updater\bin\Debug\Updater.exe.config
+D:\Project\Printout_WinForm\Updater\bin\Debug\Updater.exe
+D:\Project\Printout_WinForm\Updater\bin\Debug\Updater.pdb
+D:\Project\Printout_WinForm\Updater\obj\Debug\Updater.csproj.AssemblyReference.cache
+D:\Project\Printout_WinForm\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+D:\Project\Printout_WinForm\Updater\obj\Debug\Updater.exe
+D:\Project\Printout_WinForm\Updater\obj\Debug\Updater.pdb
